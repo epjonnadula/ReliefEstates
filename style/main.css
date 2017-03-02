@@ -1,0 +1,214 @@
+#indexpage,#developerspage,#adminloginpage,#sellerdetailspage,#customerdetailspage
+{
+    background-size:100%;
+    color:white;
+
+}
+#approveproperty
+{
+    color:white;
+    background:url(../img/bgall.jpg)  no-repeat center fixed;
+    background-size: cover;
+    position:relative;
+}
+#loginbutton
+{
+   position: absolute;
+    top: 50%;
+    left: 70%;
+   height: 20%;
+    width: auto;
+
+}
+#title
+{
+position: absolute;
+    left: 30%;
+}
+#title2
+{
+    position: relative;
+    left: 30%;
+}
+#printbutton
+{
+    font-size:18px;
+    display: inline-block;
+    font-weight:600;
+    color: #615F5F;
+    outline: none;
+    margin-top:3px;
+    background: #222;
+    width:45%;
+    border:1px solid #222;
+}
+#printbutton:hover{
+    font-size:18px;
+    display: inline-block;
+    font-weight:600;
+    color: #615F5F;
+    outline: none;
+    margin-top:3px;
+    background: #222;
+    width:45%;
+    border:1px solid #FFC600;
+}
+#logo
+{
+    width: 10%;
+    height: auto;
+    position: absolute;
+    left: 2%;
+    top:2%;
+}
+#prithvipic
+{
+    border-radius: 50%;
+}
+#ravipic
+{
+    border-radius: 50%;
+}
+#ravispan
+{
+    position: absolute;
+    top: 99%;
+    left: 22%;
+    text-align: center;
+    font-weight: bold;
+}
+#prithvispan
+{
+    position: absolute;
+    top: 99%;
+    left: 11%;
+    text-align: center;
+    font-weight: bold;
+}
+#prithvidiv
+{
+    position: absolute;
+    left: 20%;
+    top: 30%;
+}
+#ravidiv
+{
+    position: absolute;
+    left: 60%;
+    top: 30%;
+}
+footer
+{
+    text-align:center;
+    /*position:absolute; */
+    top:85%;
+    left:45%;
+}
+a
+{
+    text-decoration: none;
+    color: white;
+}
+a:hover
+{
+    text-decoration: underline;
+}
+#developers
+{
+    text-align: center;
+}
+.problem2{
+    text-align: center;
+    position: absolute;
+    top: 550px;
+    left: 45%;
+}
+
+.sellerdetailstable,.customerdetailstable,.propertydetailstable
+{
+    border:1px solid white;
+    position:relative;
+    /*top: 50px;*/
+    left: 15%;
+    top: 30%;
+    width: 70%;
+    text-align: center;
+}
+.sellerdetailstable td,.customerdetailstable td,.propertydetailstable td{
+    border: 1px solid white;
+}
+.sellerdetailstable th,.customerdetailstable th,.propertydetailstable th{
+    border: 1px solid white;
+    color: #FFC600;
+
+}
+.addcustomerlink,.addsellerlink,.removesellerlink,.addpropertylink,.removeproprtylink{
+    float:left;
+    font-size:18px;
+    display: inline-block;
+    font-weight:600;
+    color: #615F5F;
+    outline: none;
+    padding:15px 10px;
+    margin-top:3px;
+    background: #222;
+    width:100%;
+    border:1px solid #222;
+}
+.addcustomerlink:hover,.removecustomerlink:hover,.removesellerlink:hover,.addsellerlink:hover,.addpropertylink:hover,.removeproprtylink:hover{
+    background: #FFC600;
+    border:1px solid #FFC600;
+}
+.removebutton
+{
+    background-color: #dc3f36;
+    color: white;
+}
+.buybutton
+{
+    color: white;
+    background-color: #39dc53;
+}
+
+.logindetails2
+{
+    position: absolute;
+    left: 90%;
+    top: 50px;
+    color: #FFC600;
+    font-size: large;
+}
+.logindetails2 a{color: #FFC600;}
+.logoutpic2{
+    width: 3%;
+    height: auto;
+    position: absolute;
+    left: 90%;
+    top: 80px;
+}
+.logindetails4
+{
+    position: absolute;
+    left: 90%;
+    top: 50px;
+    color: #FFC600;
+    font-size: large;
+}
+.logindetails4 a{color: #FFC600;}
+.logoutpic4{
+    width: 3%;
+    height: auto;
+    position: absolute;
+    left: 90%;
+    top: 80px;
+}
+#congop
+{
+    width: 60%;
+}
+#congoh
+{
+    position: absolute;
+    left: 20%;
+    top: 30%;
+}
